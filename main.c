@@ -33,6 +33,9 @@ int main(void){
 
     goto EtiquetaGoto;
     goto EtiquetaCateo;
+
+    printf("\nAportaciones del Developer 2");
+
     goto Funcion1;
     goto EstructurasStr;
     goto EtiquetaDesplazamiento;
@@ -265,7 +268,7 @@ EtiquetaGoto:
 
     free(p);
 
-
+    printf("\nAportaciones del Developer 2");
 
 
 }   /// Main

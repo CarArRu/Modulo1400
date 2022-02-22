@@ -28,6 +28,9 @@ const Uint ValorMaxAleatorio = 100;
 
 int main(void){
 
+
+    printf("\nModificación del programa Master");
+
     goto EtiquetaGoto;
     goto EtiquetaCateo;
     goto Funcion1;

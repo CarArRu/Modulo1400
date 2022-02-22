@@ -40,6 +40,9 @@ int main(void){
     printf("\nAportaciones del Developer 2");
 
     goto Funcion1;
+
+    printf("\nAportacion del Dev3");
+
     goto EstructurasStr;
     goto EtiquetaDesplazamiento;
 
@@ -272,11 +275,15 @@ EtiquetaGoto:
     free(p);
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
     printf("\nAportaciones del Developer 1");
 =======
     printf("\nAportaciones del Developer 2");
 >>>>>>> Developer2
+=======
+    printf("\nAportacion del Dev3");
+>>>>>>> Developer3
 
 
 }   /// Main

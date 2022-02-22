@@ -32,6 +32,9 @@ int main(void){
     printf("\nModificación del programa Master");
 
     goto EtiquetaGoto;
+
+    printf("\nAportaciones del Developer 1");
+
     goto EtiquetaCateo;
     goto Funcion1;
     goto EstructurasStr;
@@ -266,6 +269,7 @@ EtiquetaGoto:
     free(p);
 
 
+    printf("\nAportaciones del Developer 1");
 
 
 }   /// Main
